@@ -2,7 +2,6 @@ body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Aria
 
 .gallery {
   width: 600px;
-  height: 400px;
   margin: auto;
   border-radius: 3px;
   overflow: hidden;
